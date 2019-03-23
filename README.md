@@ -1,0 +1,2 @@
+# miniCalculadora
+Operações matemáticas simples 
